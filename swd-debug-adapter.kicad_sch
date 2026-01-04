@@ -5404,6 +5404,17 @@
 		)
 		(uuid "9a14331e-cd20-4077-b1c7-3e3224bfe472")
 	)
+	(label "5V_REG"
+		(at 124.46 101.6 180)
+		(effects
+			(font
+				(size 0.635 0.635)
+				(color 132 132 132 1)
+			)
+			(justify right bottom)
+		)
+		(uuid "a1cefde1-25a2-45a4-adce-6c193ec5f74c")
+	)
 	(label "~{RESET}"
 		(at 228.6 104.14 0)
 		(effects
@@ -6279,6 +6290,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C2286"
+			(at 173.99 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "09306f11-1115-4794-baca-dd4f76f4aa78")
 		)
@@ -6628,6 +6648,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 63.5 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C25744"
 			(at 63.5 152.4 0)
 			(effects
 				(font
@@ -7359,6 +7388,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25091"
+			(at 190.5 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3c405a28-213c-4e7f-8328-c8f86e88d021")
 		)
@@ -7497,6 +7535,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 190.5 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2286"
+			(at 190.5 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8745,6 +8792,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25091"
+			(at 173.99 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8ee218cb-9583-4db3-842a-a06b0c8b8d25")
 		)
@@ -9913,6 +9969,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 88.9 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C25744"
 			(at 88.9 139.7 0)
 			(effects
 				(font
